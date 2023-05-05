@@ -3,6 +3,3 @@ notebooks:
   - name: simple
     path: /notebook.ipynb
     publish: true
-    authors:
-      - name: Test Author
-    kernel: quay.io/seqware/seqware_full/1.1
