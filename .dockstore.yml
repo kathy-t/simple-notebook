@@ -3,4 +3,4 @@ notebooks:
   - name: simple
     path: /notebook.ipynb
     publish: true
-    language: R
+    primaryDescriptorPath: /Dockstore.wdl
