@@ -1,6 +1,7 @@
 version: 1.2
 notebooks:
   - name: simple
+    format: jupyter
+    language: python
     path: /notebook.ipynb
     publish: true
-    primaryDescriptorPath: /Dockstore.wdl
