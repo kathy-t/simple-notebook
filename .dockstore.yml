@@ -5,4 +5,8 @@ notebooks:
     language: PYTHON
     path: /notebook.ipynb
     publish: true
-    kernel: ubuntu/ubuntu:18.04
+  - name: invalid
+    formatadfa: JUPYTER
+    languageasdfasdf: PYTHON
+    path: /notebook.ipynb
+    publish: true
