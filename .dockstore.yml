@@ -5,3 +5,4 @@ notebooks:
     language: PYTHON
     path: /notebook.ipynb
     publish: true
+    kernel: ubuntu/ubuntu:18.04
