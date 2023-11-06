@@ -5,6 +5,8 @@ notebooks:
     language: PYTHON
     path: /notebook.ipynb
     publish: true
+    authors:
+      - name: author 1
   # - name: invalid
   #   formatadfa: JUPYTER
   #   languageasdfasdf: PYTHON
