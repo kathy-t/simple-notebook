@@ -5,13 +5,13 @@ notebooks:
     language: PYTHON
     path: /notebook.ipynb
     publish: true
-  - name: invalid
-    formatadfa: JUPYTER
-    languageasdfasdf: PYTHON
-    path: /notebook.ipynb
-    publish: true
-  - name: invalid name containing spaces
-    formatadfa: JUPYTER
-    languageasdfasdf: PYTHON
-    path: /notebook.ipynb
-    publish: true
+  # - name: invalid
+  #   formatadfa: JUPYTER
+  #   languageasdfasdf: PYTHON
+  #   path: /notebook.ipynb
+  #   publish: true
+  # - name: invalid name containing spaces
+  #   formatadfa: JUPYTER
+  #   languageasdfasdf: PYTHON
+  #   path: /notebook.ipynb
+  #   publish: true
