@@ -5,6 +5,7 @@ notebooks:
     language: PYTHON
     path: /notebook.ipynb
     publish: true
+    topic: notebook topic
     authors:
       - name: Author 1
   # - name: invalid
