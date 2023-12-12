@@ -7,7 +7,7 @@ notebooks:
     publish: true
     topic: notebook topic
     authors:
-      - name: Author 1
+      - name: SEAB-5999
   # - name: invalid
   #   formatadfa: JUPYTER
   #   languageasdfasdf: PYTHON
