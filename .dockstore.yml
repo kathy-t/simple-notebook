@@ -5,7 +5,7 @@ notebooks:
     language: PYTHON
     path: /notebook.ipynb
     publish: true
-    topic: simple topic 1
+    topic: simple topic 1 edited from codespace
     authors:
       - name: SEAB-5999
   - name: simple2
