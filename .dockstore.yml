@@ -5,16 +5,21 @@ notebooks:
     language: PYTHON
     path: /notebook.ipynb
     publish: true
-    topic: simple topic
+    topic: simple topic 1
     authors:
       - name: SEAB-5999
-  # - name: invalid
-  #   formatadfa: JUPYTER
-  #   languageasdfasdf: PYTHON
-  #   path: /notebook.ipynb
-  #   publish: true
-  # - name: invalid name containing spaces
-  #   formatadfa: JUPYTER
-  #   languageasdfasdf: PYTHON
-  #   path: /notebook.ipynb
-  #   publish: true
+  - name: simple2
+    format: JUPYTER
+    language: PYTHON
+    path: /notebook.ipynb
+    publish: true
+    topic: simple topic 2
+    authors:
+      - name: SEAB-5999
+  - name: simple3
+    format: JUPYTER
+    language: PYTHON
+    path: /notebook.ipynb
+    topic: simple topic 3
+    authors:
+      - name: SEAB-5999
