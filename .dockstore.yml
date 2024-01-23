@@ -5,7 +5,7 @@ notebooks:
     language: PYTHON
     path: /notebook.ipynb
     publish: true
-    topic: notebook topic
+    topic: simple topic
     authors:
       - name: SEAB-5999
   # - name: invalid
