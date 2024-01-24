@@ -7,7 +7,7 @@ notebooks:
     publish: true
     topic: simple topic 1 edited from codespace
     authors:
-      - name: SEAB-5999
+      - name: Another author
   - name: simple2
     format: JUPYTER
     language: PYTHON
