@@ -22,5 +22,5 @@ notebooks:
     language: PYTHON
     path: /notebook.ipynb
     topic: simple topic 3
-    authors:
-      - name: SEAB-5999
+    # authors:
+    #   - name: SEAB-5999
