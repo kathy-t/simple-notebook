@@ -8,7 +8,7 @@ notebooks:
     topic: simple topic 1 edited from codespace
     authors:
       - name: Another author
-      - orcid: 0000-0003-1072-5630
+    #  - orcid: 0000-0003-1072-5630
   - name: simple2
     format: JUPYTER
     language: PYTHON
